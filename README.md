@@ -22,3 +22,8 @@ La estructura del proyecto se divide en tres fases:
 - Entrega del desafio
     - ReadMe
     - Entrega del desafio
+
+## Ejemplos de gráficos e insights obtenidos.
+Los ejemplos se crearon con pyplot de la libreria matplotlib, entre ellos bar, barh, pie y plot
+
+![Grafico de mayores y menores ventas de cada tienda](img/MasMenosVendido.JPG)
